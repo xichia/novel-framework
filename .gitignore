@@ -25,3 +25,23 @@ node_modules/
 # Draft backups
 DRAFT/**/*.bak
 DRAFT/**/*.tmp
+# Local secrets
+.env.local
+.env.*.local
+# Local runtime artifacts
+.local/
+output/
+*.sqlite3
+*.db
+*.log
+# OS/editor metadata
+.vscode/
+.idea/
+# Python
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+# Novel framework local outputs
+drafts/private/
+exports/
+tmp/
