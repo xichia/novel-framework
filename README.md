@@ -41,3 +41,13 @@ Nothing becomes canon inside a novel project unless it is added to that projectâ
 ## Status
 
 Early experimental framework.
+
+## License
+
+This repository uses a split license.
+
+Reusable framework/tooling materials are licensed under the MIT License.
+
+Original fiction, story worlds, character materials, draft prose, plot outlines, chapter text, and case-study narrative content are All Rights Reserved unless a file explicitly states otherwise.
+
+See [LICENSE](LICENSE) for details.
