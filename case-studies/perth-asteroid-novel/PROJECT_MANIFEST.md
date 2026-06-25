@@ -29,7 +29,7 @@ Milestone 3: Plot Architecture
 - `SCIENCE_BIBLE/` — asteroid science and hoax plausibility
 - `DRAFT/` — manuscript material and fragments
 - `BRANCHES/` — non-canon exploratory ideas
-- `.agents/skills/` — project-scoped agent skills
+- `../../.agents/skills/` — framework-level agent skills
 
 ## Canon Rule
 

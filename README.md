@@ -1,39 +1,43 @@
-# Perth Asteroid Novel
+# Novel Framework
 
-## Working Title
+A Git-style framework for developing novels with canon, branches, decision logs, agent skills, and reversible story architecture.
 
-*The Warm Room*
+## Purpose
 
-## One-Paragraph Premise
+Novel Framework treats long-form fiction development like a version-controlled creative project.
 
-A secret elite group fabricated an asteroid impact threat to force humanity into cooperation. It worked. In the years that follow, the world is genuinely better — borders softer, civic life deeper, ordinary people kinder to one another. Martin, a middle-aged working-class man from Perth who spent his best years fighting for a more just world and lost everything in the effort, is finally, quietly happy. Then an elderly European stranger arrives in Perth, befriends him across an autumn of walks and shared meals, and before he dies, hands Martin the truth: the crisis that remade the world was a lie. Martin must decide what to do with it. He does not have a deadline. He has a conscience.
+It is designed to help writers:
 
-## Central Question
+- separate accepted canon from exploratory branches
+- preserve major creative decisions
+- test alternate plot structures without losing earlier work
+- use AI agents safely without accidental canon drift
+- manage worldbuilding, character development, plot architecture, and drafting as distinct layers
 
-*If a lie produces genuine human connection, is the connection real?*
+## Core Idea
 
-Refined later as:
+A novel project should be able to branch, test, merge, park, and revert ideas without losing the emotional and thematic integrity of the work.
 
-*When is not knowing an act of mercy, and when is it cowardice?*
+## Repository Structure
 
-## Genre and Tone
+- `FRAMEWORK.md` — the reusable method
+- `AGENTS.md` — repo-level agent instructions
+- `.agents/skills/` — reusable agent skills
+- `templates/` — future reusable project templates
+- `case-studies/` — case studies
 
-Literary fiction. Character-driven, morally complex, slow-burn. Intimate and philosophical. Grounded in credible science and Perth atmosphere.
+## Case Study
 
-Not a thriller. The conspiracy is context. The drama is ethical and emotional.
+The current case study is:
 
-## Current Milestone
+- `case-studies/perth-asteroid-novel/`
 
-**Milestone 1 — Foundation**
+This case study is a literary novel about a post-crisis utopia built on a lie.
 
-Establishing core canon and project framework.
+## Canon Rule
 
-## Current Branch
+Nothing becomes canon inside a novel project unless it is added to that project’s `CANON.md` and recorded in that project’s `DECISION_LOG.md`.
 
-`main`
+## Status
 
-## Next Task
-
-Populate CANON.md, DECISION_LOG.md, OPEN_QUESTIONS.md, STYLE_GUIDE.md, and THEMES.md.
-
-Then open `branch/science-bible`.
+Early experimental framework.
