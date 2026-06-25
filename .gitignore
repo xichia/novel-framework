@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# Python / tooling
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node / package tooling
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+
+# Draft backups
+DRAFT/**/*.bak
+DRAFT/**/*.tmp
