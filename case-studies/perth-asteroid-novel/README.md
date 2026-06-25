@@ -1,39 +1,37 @@
 # Perth Asteroid Novel
 
-## Working Title
+A literary novel case study for Novel Framework.
 
-*The Warm Room*
+## Overview
 
-## One-Paragraph Premise
+This novel is about a post-crisis utopia built on a lie.
 
-A secret elite group fabricated an asteroid impact threat to force humanity into cooperation. It worked. In the years that follow, the world is genuinely better — borders softer, civic life deeper, ordinary people kinder to one another. Martin, a middle-aged working-class man from Perth who spent his best years fighting for a more just world and lost everything in the effort, is finally, quietly happy. Then an elderly European stranger arrives in Perth, befriends him across an autumn of walks and shared meals, and before he dies, hands Martin the truth: the crisis that remade the world was a lie. Martin must decide what to do with it. He does not have a deadline. He has a conscience.
+A secret elite group fabricates an asteroid impact threat, forcing humanity into cooperation. The countdown works: wars pause, borders soften, resources are redistributed, civic life deepens, and people become more humane.
 
-## Central Question
+The asteroid threat was false.
 
-*If a lie produces genuine human connection, is the connection real?*
+The better world is real.
 
-Refined later as:
+At the centre of the novel is Martin, a middle-aged working-class man in Perth, Western Australia. Once a union-side employment lawyer, Martin spent his life making suffering legible to institutions. He fought for justice in the abstract but failed love in the particular, losing his long-term partner, Bianca.
 
-*When is not knowing an act of mercy, and when is it cowardice?*
+In the transformed world after the asteroid crisis, Martin becomes genuinely happy for the first time in decades. He has dignity, community, purpose, and warmth. Then he receives evidence from Giacob, a haunted European astrophysicist and planetary-risk strategist, that the crisis that saved the world was engineered.
 
-## Genre and Tone
+The novel asks:
 
-Literary fiction. Character-driven, morally complex, slow-burn. Intimate and philosophical. Grounded in credible science and Perth atmosphere.
+> When is not knowing an act of mercy, and when is it cowardice?
 
-Not a thriller. The conspiracy is context. The drama is ethical and emotional.
+## Core Tension
 
-## Current Milestone
+If a lie produces genuine human connection, is the connection real?
 
-**Milestone 1 — Foundation**
+Martin must decide whether truth is always owed, whether peace built on deception can be allowed to stand, and whether delaying the truth is wisdom or merely noble language for silence.
 
-Establishing core canon and project framework.
+## Development Status
 
-## Current Branch
+This case study is in early plot-architecture development.
 
-`main`
+The current active branch artifact is:
 
-## Next Task
+- `BRANCHES/plot-architecture-v1.md`
 
-Populate CANON.md, DECISION_LOG.md, OPEN_QUESTIONS.md, STYLE_GUIDE.md, and THEMES.md.
-
-Then open `branch/science-bible`.
+This file is exploratory and non-canon unless explicitly merged into `CANON.md` and recorded in `DECISION_LOG.md`.

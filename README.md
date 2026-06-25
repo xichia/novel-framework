@@ -26,13 +26,21 @@ A novel project should be able to branch, test, merge, park, and revert ideas wi
 - `templates/` — future reusable project templates
 - `case-studies/` — case studies
 
-## Case Study
+## Current Case Study
 
-The current case study is:
+The first case study is `case-studies/perth-asteroid-novel/`.
 
-- `case-studies/perth-asteroid-novel/`
+It is a literary novel project about a post-crisis utopia built on a lie. A secret elite group fabricates an asteroid impact threat, forcing humanity into cooperation. The crisis is false, but the better world it produces is real.
 
-This case study is a literary novel about a post-crisis utopia built on a lie.
+The case study demonstrates how Novel Framework manages:
+
+- canon versus exploratory branches
+- character architecture
+- moral and thematic questions
+- science plausibility
+- three-strand plot structure
+- reversible plot decisions
+- AI-assisted development without accidental canon drift
 
 ## Canon Rule
 
