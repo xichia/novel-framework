@@ -1,0 +1,57 @@
+# License
+
+This repository contains both reusable framework/tooling materials and creative writing materials.
+
+## Reusable framework and software materials — MIT License
+
+The following materials are licensed under the MIT License:
+
+- source code
+- scripts
+- command-line helpers
+- schemas
+- tests
+- reusable templates
+- framework documentation
+- examples that demonstrate repository mechanics rather than original story content
+
+MIT License
+
+Copyright (c) 2026 Ian Chia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of the reusable framework and software materials described above (the "Software"),
+to deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Creative and narrative materials — All Rights Reserved
+
+The following materials are not licensed for reuse under the MIT License:
+
+- original fiction
+- story worlds
+- character materials
+- draft prose
+- plot outlines
+- chapter text
+- case-study narrative content
+- private or project-specific story materials
+
+All rights are reserved for creative and narrative materials unless a specific
+file explicitly states otherwise.
+
+In short: the reusable framework/tooling is open under MIT; original story
+content and creative writing IP are not.
