@@ -60,11 +60,14 @@ The utopia is imperfect. People are still people. The point is not that humanity
 
 ## The Science
 
-The science must be plausible without being a lecture.
+Do not interpret "avoid overly scientific explanation" as a mandate to "minimize science." The correct principle is: avoid inert exposition, but allow science to become a major living force in the novel.
 
-The elder's expertise should be felt in the precision of his language, not explained in paragraphs. When the science appears in the European strand, it should have the texture of institutional bureaucracy — dry, procedural, specific — rather than dramatic exposition.
-
-The reader should understand that the hoax was possible and sophisticated. They should not be bored by the mechanism.
+*   **Science as Character:** Science is not merely static background information; it is one of the novel's major living forces. It should be accurate, vivid, intelligible, and pleasurable to understand. 
+*   **Accessible Wonder and Dread:** Scientific explanation is welcome when it creates cosmic wonder, orbital dread, problem-solving pleasure, moral pressure, or character revelation. The reader should sometimes be invited to think alongside the story, experiencing the click of comprehension.
+*   **Tonal Restraint:** The voice must remain restrained, literary, morally grave, and character-driven. Avoid pop-science cheerfulness, textbook lectures, and detached info-dumps that break the book's tone.
+*   **Scene Pressure and Emotional Cost:** Every scientific detail must remain attached to scene pressure, character perception, ethical consequence, and emotional cost.
+*   **Martin's Translation Lens (Chapter 17):** In the confession, do not hide the science. It must arrive as Martin's devastating translation of reality: his union lawyer brain translates the coordinates and data adjustments as a "death sentence with paperwork around it." The numbers are dry, but their human consequence is absolute.
+*   **Institutional Texture:** When the science appears, it should have the texture of institutional bureaucracy—dry, procedural, specific—rather than dramatic exposition. Giacob's expertise should be felt in the precision of his language, and should be broken up by physical action or environmental shifts.
 
 ---
 

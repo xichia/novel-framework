@@ -249,3 +249,28 @@ Single wounds risk making Martin one-dimensional. The dual wound structure mirro
 **Downstream Consequences:** Update all character files and canon references. Close OQ-001 and OQ-002.
 
 **Status:** Canon
+
+---
+
+## Entry 014
+
+**Date:** 2026-06-29
+
+**Version:** v0.3
+
+**Decision:** Adopt "Science as Character" as project style/method guidance.
+
+**Reason:** Clarifies a project-level creative-method correction. The warning to "avoid overly scientific explanation" was being misinterpreted as "minimize science," which threatened to dilute the intellectual texture of the hoax. Treating science as a major living force preserves cosmic awe, physical accuracy, and problem-solving interest (drawing on the clear, dramatic energy of strong science communication) while maintaining the novel's restrained, literary tone.
+
+**Alternatives Considered:**
+- Maintain the strict "minimize science" approach to focus exclusively on domestic relationships.
+- Adopt a hard science-fiction mode where physics dominates the prose.
+
+**Why Alternatives Were Rejected:**
+Minimizing the science risks making the faked asteroid threat feel like implausible thriller magic, reducing institutional credibility. A hard science-fiction mode would overwhelm the character-driven, philosophical core of the book. Treating science as a dramatic character provides a middle path where physical truth exerts moral and emotional pressure.
+
+**Downstream Consequences:** Updated `STYLE_GUIDE.md` to establish guidelines for "Science as Character" and the "Paperwork Death Sentence" translation lens. Future drafting, especially Chapter 17, must treat science as a dramatic force rather than hiding it. 
+
+**Governance:** This is a style/method decision, not new story canon. It does not alter `CANON.md`.
+
+**Status:** Approved Guidance
