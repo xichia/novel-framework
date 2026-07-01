@@ -10,7 +10,7 @@ A literary novel project managed like a version-controlled creative repository.
 
 ## Current Milestone
 
-Milestone 3: Plot Architecture
+Milestone 4: Chapter 17 Drafting
 
 ## Core Files
 
@@ -37,8 +37,10 @@ Nothing becomes canon unless it is added to `CANON.md` and recorded in `DECISION
 
 ## Current Development Focus
 
-Review and stress-test the three-strand plot architecture branch:
+Draft and revise Chapter 17 — the structural pivot of the novel where Giacob confesses the hoax to Martin.
 
-- `BRANCHES/plot-architecture-v1.md`
+Current active branch artifact:
 
-Do not merge it into canon until explicitly instructed.
+- `BRANCHES/chapter-17-draft-v2.md`
+
+All branch artifacts remain exploratory and non-canon until explicitly merged into `CANON.md` and recorded in `DECISION_LOG.md`.

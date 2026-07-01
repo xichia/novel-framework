@@ -8,29 +8,33 @@
 
 ### OQ-001 — Martin's Former Partner: Name ✓ CLOSED
 
-**Status:** Active — ready to decide
+**Status:** Closed — decided in DECISION_LOG.md Entry 013 (v0.2)
 
-**Question:** What is the former partner's name?
+**Decision:** Bianca
+
+**Reason:** Warm, bright, specifically Australian without cliché. A name with daily warmth that suits her embodied, practical hope.
 
 **Options discussed:** Clare, Helen, Ruth, Diane
 
-**Notes:** Should feel warm, grounded, and specifically Australian without being clichéd. The name will appear in Martin's memory, in his quiet searches, and possibly in the final pages.
+**Notes:** The name appears in Martin's memory, in his quiet searches, and in the character file. Historical options preserved for reference.
 
-**Downstream impact:** Medium. Affects character files and all references throughout drafting.
+**Downstream impact:** Medium. Affects character files and all references throughout drafting. Updated in v0.2.
 
 ---
 
-### OQ-002 — The Elder: Name
+### OQ-002 — The Elder: Name ✓ CLOSED
 
-**Status:** Active — ready to decide
+**Status:** Closed — decided in DECISION_LOG.md Entry 013 (v0.2)
 
-**Question:** What is the elder's name?
+**Decision:** Giacob
+
+**Reason:** Eastern European in resonance, institutional, quietly authoritative. Carries the weight of a man who has inhabited serious rooms across decades. Sits between nationalities in a way that suits someone who has spent his career in international spaces.
 
 **Options discussed:** Laszlo, Edmund, Heinrich, François
 
-**Notes:** Should feel European and institutional — the name of a man who has sat in serious rooms for a long time. Not glamorous. Not eccentric. Quietly authoritative. Eastern European names (Laszlo) carry a particular Cold War institutional resonance. Western European names (François, Heinrich) feel more aligned with Geneva/UN culture.
+**Notes:** The name appears in the elder character file and throughout drafting. Historical options preserved for reference.
 
-**Downstream impact:** Medium. Affects character files and all references throughout drafting.
+**Downstream impact:** Medium. Affects character files and all references throughout drafting. Updated in v0.2.
 
 ---
 

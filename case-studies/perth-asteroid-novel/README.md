@@ -28,10 +28,10 @@ Martin must decide whether truth is always owed, whether peace built on deceptio
 
 ## Development Status
 
-This case study is in early plot-architecture development.
+This case study is in Chapter 17 drafting — the structural pivot of the novel where the confession arrives.
 
 The current active branch artifact is:
 
-- `BRANCHES/plot-architecture-v1.md`
+- `BRANCHES/chapter-17-draft-v2.md`
 
-This file is exploratory and non-canon unless explicitly merged into `CANON.md` and recorded in `DECISION_LOG.md`.
+All branch artifacts remain exploratory and non-canon unless explicitly merged into `CANON.md` and recorded in `DECISION_LOG.md`.
